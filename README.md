@@ -33,4 +33,5 @@ Correr el script *scraper.py*.
 - Por el momento analiza un numero arbitrario de imagenes, 
 
 
+![20190218012711](https://user-images.githubusercontent.com/40048927/52928328-e163e800-331d-11e9-9258-fa2c46086d94.gif)
 
