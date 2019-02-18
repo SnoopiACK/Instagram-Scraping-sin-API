@@ -1,7 +1,8 @@
 # Instagram-Scraping-sin-API
 
+Scraper de Instagram utilizando "Selenium" que permite automatizar navegadores web, en este caso Google Chrome.
 
-
+.
 ```
 conda install -c conda-forge selenium
 ```
