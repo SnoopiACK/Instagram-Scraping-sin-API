@@ -4,7 +4,7 @@ Scraper de Instagram que utiliza "Selenium" que permite automatizar navegadores 
 
 El script	 inicia sesión y luego comienza a “ver” las imágenes subidas en Bahía Blanca (puede cambiarse a cualquier otra localización), recoge información de cada imagen (Cantidad de Me Gusta, Usuario que publico, Fecha de posteo, etc.) y utilizando una red que se entrenó previamente se estima si la foto es o no COMIDA.
 
-**WINDOWS**
+**WINDOWS**__
 **Instalar Selenium**
 
 ```
