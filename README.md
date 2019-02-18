@@ -12,6 +12,8 @@ conda install -c conda-forge selenium
 ```
 - Se debe tener *chromedriver.exe* en el mismo directorio.  <br />
 - Google Chrome instalado. <br />
+- openCV <br />
+- tensorFlow <br /> 
 
 **Clasificador Comida/noComida**
 
