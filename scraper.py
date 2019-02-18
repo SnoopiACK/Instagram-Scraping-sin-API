@@ -63,7 +63,7 @@ time.sleep(2)
 i=0
 contadorErrores = 0
 while(i<80):
-    
+    i=i+1
     ht=driver.find_element_by_tag_name("html")
     html = driver.page_source
     soup = BeautifulSoup(html)  
