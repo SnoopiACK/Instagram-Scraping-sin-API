@@ -10,7 +10,8 @@ El script	 inicia sesión y luego comienza a “ver” las imágenes subidas en 
 ```
 conda install -c conda-forge selenium
 ```
-Se debe tener *chromedriver.exe* en el mismo directorio 
+- Se debe tener *chromedriver.exe* en el mismo directorio.  <br />
+- Google Chrome instalado.
 
 
 
