@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 15 14:53:36 2019
-
-@author: LENOVO
-"""
-
-
 from selenium import webdriver 
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
