@@ -30,7 +30,7 @@ Correr el script *scraper.py*.
 
 - Solo se probó en la versión en español de Instagram, talvez otra versión podrían surgir errores. <br /> 
 
-- Por el momento analiza un numero arbitrario de imagenes, 
+- Por el momento analiza un numero arbitrario de imagenes y se detiene. 
 
 
 ![20190218012711](https://user-images.githubusercontent.com/40048927/52928328-e163e800-331d-11e9-9258-fa2c46086d94.gif)
