@@ -38,8 +38,8 @@ driver.set_window_size(1,1000)
 
 driver.get("https://www.instagram.com/accounts/login/");
 
-email="snoopi.ht@gmail.com"
-contra="instagram123snoopi"
+email="xxxxx@gmail.com"
+contra="xxxxxxxxxx"
 
 
 caja = driver.find_element_by_name("username")
