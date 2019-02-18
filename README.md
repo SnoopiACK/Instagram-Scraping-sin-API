@@ -15,5 +15,22 @@ conda install -c conda-forge selenium
 
 **Clasificador Comida/noComida**
 
-Antes de correr el programa se debe descargar la red y colar en el mismo directorio donde se ejecuta el script. <br />
+Antes de correr el programa se debe descargar la red y colocar en el mismo directorio donde se ejecuta el script. <br />
 Link de la red: https://mega.nz/#!K1JR0Q4T!8H0vYEOtoujKjatW45cQ7fbXts1HgV99XUttJeLI8-4
+
+**Ejecutar**
+
+Correr el script *scraper.py*.
+
+
+
+**Advertencia**
+
+- Todavía no está protegido ante posibles errores, por ejemplo: Que falle la conexión a internet.<br /> 
+
+- Solo se probó en la versión en español de Instagram, talvez otra versión podrían surgir errores. <br /> 
+
+- Por el momento analiza un numero arbitrario de imagenes, 
+
+
+
