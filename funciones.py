@@ -164,6 +164,11 @@ def getInformacion(html):
     foto = foto[0]['src']
     link = foto
     foto = io.imread(foto)
+    x,y,z= foto.shape
+    if (x*y>500*500):   
+        foto = cv2.resize(foto, dsize=(ladoMaximo if (x<y) else y*ladoMaximo//x, ladoMaximo if (x>y) else x*ladoMaximo//y), interpolation=cv2.INTER_CUBIC)
+        # Redimensiona la foto para que tenga de maximo de  "ladoMaximo" por lado
+    
     
     clase,porcentaje=analisar(link)
     plotear(foto,clase,porcentaje)
