@@ -14,6 +14,7 @@ conda install -c conda-forge selenium
 - Google Chrome instalado. <br />
 - OpenCV <br />
 - TensorFlow <br /> 
+- BeautifulSoup <br /> 
 
 **Clasificador Comida/noComida**
 
