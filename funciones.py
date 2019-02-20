@@ -27,7 +27,7 @@ def plotear(openCVImage,strClassification,scoreAsAPercent):
 
 #    print("the object appears to be a " + strClassification + ", " + "{0:.2f}".format(scoreAsAPercent) + "% confidence")
 #    cv2.imshow("foto", cv2.cvtColor(openCVImage, cv2.COLOR_BGR2RGB))
-    writeResultOnImage(openCVImage, strClassification + ", " + "{0:.2f}".format(scoreAsAPercent) + "% ",strClassification)
+    writeResultOnImage(openCVImage + 0, strClassification + ", " + "{0:.2f}".format(scoreAsAPercent) + "% ",strClassification)
     plt.axis('off')
     plt.imshow(openCVImage)  
     
